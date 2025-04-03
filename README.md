@@ -5,8 +5,8 @@
 
 ## Features:
 
-X is predator
-O is prey
+- X is predator
+- O is prey
 
 - Every 3 steps, prey is born
 - Predator will eat prey if next to a prey
