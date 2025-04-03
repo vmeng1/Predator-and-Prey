@@ -17,7 +17,7 @@
 
 # **output**
 <pre>
-<br/><br/><br/><br/>
+
 ## Check out z_output.gif file for sample output
 </pre>
 
@@ -26,9 +26,9 @@
 
 # basic_test.cpp output:
 <pre>
-<br/><br/><br/><br/>
-  Press enter key for every new generation
-  Press 'x' to exit
+
+  - Press enter key for every new generation
+  - Press 'x' to exit
 </pre>
 
 
