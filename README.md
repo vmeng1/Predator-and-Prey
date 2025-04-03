@@ -32,7 +32,7 @@
 # **output**
 <pre>
 <br/><br/><br/><br/>
-## Delete this line and paste the output of your basic test and then testB here
+## Check out z_output.gif for sample output
 </pre>
 
 
