@@ -5,34 +5,20 @@
 
 ## Features:
 
-- Not Implemented:
-  - what features have been implemented
+X is predator
+O is prey
+
+- Every 3 steps, prey is born
+- Predator will eat prey if next to a prey
 
 <br><br>
 
-- Implemented:
-  - what has been implemented
 
-<br><br>
-
-- Partly implemented:
-  - what features have not been implemented
-
-<br><br>
-
-- Bugs
-  - Known bugs
-
-<br><br>
-
-# Reflections:
-
-- Any thoughts you may have and would like to share.
 
 # **output**
 <pre>
 <br/><br/><br/><br/>
-## Check out z_output.gif for sample output
+## Check out z_output.gif file for sample output
 </pre>
 
 
@@ -41,10 +27,8 @@
 # basic_test.cpp output:
 <pre>
 <br/><br/><br/><br/>
-</pre>
-# testB.cpp output:
-<pre>
-<br/><br/><br/><br/>
+  Press enter key for every new generation
+  Press 'x' to exit
 </pre>
 
 
