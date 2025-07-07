@@ -1,7 +1,6 @@
 
 # Work Report
 
-## Name: <ins> your name goes here </ins>
 
 ## Features:
 
